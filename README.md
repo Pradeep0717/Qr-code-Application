@@ -1,1 +1,1 @@
-# There are a few bugs in the react-qr-reader package.
+# i am full stack developer.
